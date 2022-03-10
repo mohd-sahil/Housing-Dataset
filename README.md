@@ -33,5 +33,5 @@ __Features__:
 
 **9.** Evaluating the model on the Test Set
 
-**10.** Feature Importance
-
+**10.** Feature Importance <br>
+<img src = "img/feature imp.png" width = "900">
