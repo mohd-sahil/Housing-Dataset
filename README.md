@@ -1,5 +1,6 @@
-# Housing-Dataset-Analysis
-### Data Preprocessing &amp; Feature Engineering for Machine Learning
+## Housing-Dataset-Preprocessing &amp; Feature Engineering for Machine Learning 
+<br>
+  <img src = "img/house_prices_california.png" width = "2000">
 
 __Features__:
 * **longitude:**  geographic coordinate (district´s east-west position)
@@ -16,6 +17,7 @@ __Features__:
 
 #### Steps followed
 **1.** Data Import & first inspection
+<br><br>
 <img src = "img/df.png" width = "900">
 <img src = "img/df_dscribe.png" width = "900">
 
