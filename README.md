@@ -16,6 +16,9 @@ __Features__:
 
 #### Steps followed
 **1.** Data Import & first inspection
+<img src = "img/df.png" width = "900">
+<img src = "img/df_dscribe.png" width = "900">
+
 
 **2.** Data Cleaning
 
@@ -34,4 +37,4 @@ __Features__:
 **9.** Evaluating the model on the Test Set
 
 **10.** Feature Importance <br>
-<img src = "img/feature imp.png" width = "900">
+<img src = "img/feature imp.png" width = "1000">
