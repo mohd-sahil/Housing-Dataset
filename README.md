@@ -23,12 +23,16 @@ __Features__:
 
 
 **2.** Data Cleaning
+  * Removing Null values
 
 **3.** Creating additional features
 
 **4.** Factors influencing House Prices
 
+
 **5.** Exploratory Data Analysis
+<br><br>
+<img src = "img/median_house_value_histgrm.png" width = "700">
 
 **6.** Feature Engineering
 
