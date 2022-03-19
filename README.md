@@ -1,6 +1,6 @@
 ### Housing-Dataset-Preprocessing &amp; Feature Engineering for Machine Learning 
 <br>
-  <img src = "img/house_prices_california.png" width = "2000">
+
 
 __Features__:
 * **longitude:**  geographic coordinate (district´s east-west position)
@@ -22,8 +22,10 @@ __Features__:
 <img src = "img/df_dscribe.png" width = "900">
 
 
-**2.** Data Cleaning
-  * Removing Null values
+**2.** Data Cleaning <br>
+Oftentimes the data we load has various faults, such as typo, missing values, incomplete data, etc. <br>
+By cleaning up, the data will have better quality to be used for further analysis.
+It involves finding null values, outliers and removing unnecessary fields.
 
 **3.** Creating additional features
 
